@@ -55,3 +55,22 @@ To avoid views and resources being displayed from the local browser cache or to 
 /n/IWBEP/CACHE_CLEANUP
 ```
 
+
+### FE Cache
+```code
+/UI2/INVALIDATE_GLOBAL_CACHES
+```
+
+
+```code
+/UI2/INVALIDATE_CLIENT_CACHES
+```
+
+```code
+/UI2/DELETE_CACHE
+```
+
+```code
+/UI2/DELETE_CACHE_AFTER_IMP
+```
+
