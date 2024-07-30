@@ -36,7 +36,7 @@ For Backend and Gateway (oData cache clearing): Use transaction /IWBEP/CACHE_CLE
 ## 4. Run Cache Buster
 
 ```code
-/UI5/UPDATE_CACHEBUSTER
+/UI5/APP_INDEX_CALCULATE
 ```
 
 ## 5. Clear Local Browser Cache
