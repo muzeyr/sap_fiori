@@ -25,10 +25,6 @@ For Backend and Gateway (oData cache clearing): Use transaction /IWBEP/CACHE_CLE
 
 
 ```code
-/UI2/CHIP_CHDR
-```
-
-```code
 /UI2/DELETE_CACHE_AFTER_IMP
 ```
 
