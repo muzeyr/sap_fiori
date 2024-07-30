@@ -18,7 +18,11 @@ For Backend and Gateway (oData cache clearing): Use transaction /IWBEP/CACHE_CLE
 ```
 
 ## 3. Synchronize Chip Cache
-Run the report /UI2/CHIP_SYNCHRONIZE_CACHE. Ensure there are no errors in 
+
+```code
+/UI2/CHIP_SYNCHRONIZE_CACHE
+```
+
 
 ```code
 /UI2/CHIP_CHDR
